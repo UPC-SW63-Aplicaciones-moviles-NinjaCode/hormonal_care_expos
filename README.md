@@ -44,10 +44,6 @@ Este repositorio contiene las presentaciones, la práctica parcial y final del c
 - Garantizar la seguridad de los datos médicos a través de protocolos avanzados.
 - Ofrecer una experiencia de usuario optimizada para médicos y pacientes.
 
-### Final
-
-(Sección reservada para la práctica final del curso)
-
 ## HormonalCare
 
 ### Descripción del proyecto
